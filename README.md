@@ -37,13 +37,6 @@
 | [**Plan & Learn**](https://github.com/Github-Baskar/Plan-Learn) | AI-powered learning platform that generates personalized study plans with Google Gemini, plus scheduling and progress tracking | React (Vite), TypeScript, Node, Express, MongoDB, Gemini AI |
 | [**Auth Service**](https://github.com/Github-Baskar/auth-service) | Reusable authentication service with email/password and Google OAuth login | React, Node, Express, MongoDB, JWT |
 
-### 📊 GitHub stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Github-Baskar&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Github-Baskar&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baskar-in/)
