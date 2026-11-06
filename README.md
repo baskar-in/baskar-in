@@ -34,8 +34,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Plan & Learn**](https://github.com/Github-Baskar/Plan-Learn) | AI-powered learning platform that generates personalized study plans with Google Gemini, plus scheduling and progress tracking | React (Vite), TypeScript, Node, Express, MongoDB, Gemini AI |
-| [**Auth Service**](https://github.com/Github-Baskar/auth-service) | Reusable authentication service with email/password and Google OAuth login | React, Node, Express, MongoDB, JWT |
+| [**Plan & Learn**](https://github.com/baskar-in/Plan-Learn) | AI-powered learning platform that generates personalized study plans with Google Gemini, plus scheduling and progress tracking | React (Vite), TypeScript, Node, Express, MongoDB, Gemini AI |
+| [**Auth Service**](https://github.com/baskar-in/auth-service) | Reusable authentication service with email/password and Google OAuth login | React, Node, Express, MongoDB, JWT |
 
 ### 📫 Reach me
 
